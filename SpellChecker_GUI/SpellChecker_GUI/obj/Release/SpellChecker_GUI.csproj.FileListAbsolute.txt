@@ -1,0 +1,8 @@
+C:\Users\joao.nuno.carvalho\documents\visual studio 2015\Projects\SpellChecker_GUI\SpellChecker_GUI\bin\Release\SpellChecker_GUI.exe.config
+C:\Users\joao.nuno.carvalho\documents\visual studio 2015\Projects\SpellChecker_GUI\SpellChecker_GUI\bin\Release\SpellChecker_GUI.exe
+C:\Users\joao.nuno.carvalho\documents\visual studio 2015\Projects\SpellChecker_GUI\SpellChecker_GUI\bin\Release\SpellChecker_GUI.pdb
+C:\Users\joao.nuno.carvalho\documents\visual studio 2015\Projects\SpellChecker_GUI\SpellChecker_GUI\obj\Release\SpellChecker_GUI.MainForm.resources
+C:\Users\joao.nuno.carvalho\documents\visual studio 2015\Projects\SpellChecker_GUI\SpellChecker_GUI\obj\Release\SpellChecker_GUI.Properties.Resources.resources
+C:\Users\joao.nuno.carvalho\documents\visual studio 2015\Projects\SpellChecker_GUI\SpellChecker_GUI\obj\Release\SpellChecker_GUI.csproj.GenerateResource.Cache
+C:\Users\joao.nuno.carvalho\documents\visual studio 2015\Projects\SpellChecker_GUI\SpellChecker_GUI\obj\Release\SpellChecker_GUI.exe
+C:\Users\joao.nuno.carvalho\documents\visual studio 2015\Projects\SpellChecker_GUI\SpellChecker_GUI\obj\Release\SpellChecker_GUI.pdb
