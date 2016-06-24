@@ -16,7 +16,7 @@ It runs directly from the .exe file and doesn’t need any external files other th
 
 ---
 ## Features
-- Spell checker for English and Portuguese Languages
+- Spell checker for **English** and **Portuguese** Languages
 - Integrated editor
 - It’s fast
 - Works from a USB Pen drive without installation
